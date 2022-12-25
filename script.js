@@ -1,5 +1,6 @@
 const toggle = document.querySelector(".toggle__theme");
 const card = document.querySelector(".app");
+let theme = toggle.querySelector(".fas")
 theme.classList.remove("fa-moon");
 theme.classList.add("fa-sun");
 // toggle.addEventListener("click", () => {
