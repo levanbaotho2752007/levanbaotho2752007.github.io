@@ -49,7 +49,7 @@ html {
     -o-transition: all .3s linear;
 }
 .app.dark {
-    background: var(--bg-dark);
+    background: var(--bg-main);
 }
 
 .card {
