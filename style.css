@@ -33,9 +33,9 @@ html {
        inset -6px -6px 10px -1px rgba(255, 255, 255, 0.1);
     --icon-fb: #4267B2;
     --icon-insta: #FB3958;
-    --icon-github: #333;
+    --icon-github: rgb(0, 0, 0);
     --icon-youtube: #FF0000;
-    --icon-tiktok: #000;
+    --icon-tiktok: rgb(251, 0, 0);
 }
 
 .app {
