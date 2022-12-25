@@ -13,12 +13,12 @@ html {
 
 :root {
     --white-color: #fff;
-    --bg-main: #5fc5f0;
-    --bg-dark: #000000;
-    --primary-color: #f3f3f3;
+    --bg-main: #e3edf7;
+    --bg-dark: #303234;
+    --primary-color: #31344b;
     --text-color: #777777;
     --text-color-dark: #B0B3B8;
-    --blue-color: #6099e2;
+    --blue-color: #1877f2;
     --blue-color-2: #e9f5ff;
     --outer-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
         -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
