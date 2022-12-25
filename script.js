@@ -1,4 +1,4 @@
-//fix code and by btho source gốc không nhớ :(((
+//fix code by btho source gốc không nhớ :(((
 const toggle = document.querySelector(".toggle__theme");
 const card = document.querySelector(".app");
 toggle.addEventListener("click", () => {
